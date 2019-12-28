@@ -1,3 +1,11 @@
+# KDP
+https://kdp.amazon.com/en_US/help/topic/G201113520#front_spine
+
+# Mockups
+https://diybookcovers.com/3Dmockups/#
+
+
+
 # eBook Tools
 
 This is a collection of bash shell scripts for automated and semi-automated organization and management of large ebook collections. It contains the following tools:
